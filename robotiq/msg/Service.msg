@@ -1,0 +1,4 @@
+# constants
+int32 OPEN_GRASP = 0
+int32 CLOSE_GRASP = 1
+int32 HALF_OPEN_GRASP = 2
