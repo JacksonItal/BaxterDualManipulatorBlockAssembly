@@ -1,4 +1,0 @@
-# Position ID defined in assembly_movement/msg/Position.msg
-int32 action
----
-bool ret
