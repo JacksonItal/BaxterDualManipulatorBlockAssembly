@@ -1,0 +1,19 @@
+<launch>
+  <!-- Baxter Movement Node  -->
+  <node pkg="assembly_movement" type="movment_node.py" name="position_movment" 
+  args="-f positions_for_movment.txt" output="screen"/>
+  
+  <!-- Barrett Gripper Node-->
+  <env name="PYTHONPATH" value="/usr/lib:$(env PYTHONPATH)" />
+  <include file="$(find bhand_controller)/launch/bhand_controller.launch"/> 
+
+  <!-- RobotIQ Gripper Node -->
+  <node pkg="robotiq" type="robotiq_control.py" name="robotiq_control" output="screen"/> 
+
+  <!-- Force Sensor Node -->
+  <include file="$(find netft_utils)/launch/netft_view.launch"/>
+  
+
+
+
+</launch>

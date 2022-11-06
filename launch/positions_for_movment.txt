@@ -1,0 +1,80 @@
+Left Over position_|01|:
+position.x = 0.6
+position.y = 0.18
+position.z = 0.3
+orientation.x = 0.0
+orientation.y = 1.0
+orientation.z = 0.0
+orientation.w = 0.0
+
+Left Pickup position_|06|:
+position.x = 0.58
+position.y = 0.12
+position.z = 0.008
+orientation.x = 0.0
+orientation.y = 1.0
+orientation.z = 0.0
+orientation.w = 0.0
+
+Right Over position_|02|:
+position.x = 0.6
+position.y = -0.2
+position.z = 0.3
+orientation.x = -0.04
+orientation.y = 0.0
+orientation.z = 0.0
+orientation.w = 0.0
+
+Right Pickup position_|05|:
+position.x = 0.64
+position.y = -0.185
+position.z = 0.05
+orientation.x = -0.05
+orientation.y = 0.0
+orientation.z = 0.0
+orientation.w = 0.0
+
+Right Horizontal position_|03|:
+position.x = 0.6
+position.y = -0.4
+position.z = 0.47
+orientation.x = -0.64
+orientation.y = 0.0
+orientation.z = 0.0
+orientation.w = 0.7
+
+Left Horizontal position_|04|:
+position.x = 0.58
+position.y = 0.4
+position.z = 0.45
+orientation.x = 0.7
+orientation.y = 0.0
+orientation.z = 0.0
+orientation.w = 0.7
+
+Right Horizontal Meet Point position_|07|:
+position.x = 0.6
+position.y = -0.2
+position.z = 0.3
+orientation.x = -0.64
+orientation.y = 0.0
+orientation.z = 0.0
+orientation.w = 0.7
+
+Left Horizontal Meet Point position_|08|:
+position.x = 0.62
+position.y = 0.15
+position.z = 0.45
+orientation.x = 0.8
+orientation.y = 0.0
+orientation.z = 0.0
+orientation.w = 0.8
+
+Left Place Down position_|09|:
+position.x = 0.58
+position.y = 0.12
+position.z = 0.13
+orientation.x = 0.0
+orientation.y = 1.0
+orientation.z = 0.0
+orientation.w = 0.0
